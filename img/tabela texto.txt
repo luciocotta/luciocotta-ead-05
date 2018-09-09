@@ -1,0 +1,21 @@
+	CLASSIFICAÇÃO	P	J	V	E
+1	São Paulo		47	24	13	8
+2	Internacional	46	23	13	7
+3	Palmeiras		43	23	12	7
+4	Flamengo		41	23	12	5
+5	Grêmio			41	23	11	8
+6	Atlético-MG		38	23	11	5
+7	Cruzeiro		33	24	8	9
+8	Corinthians		30	23	8	6
+9	América-MG		29	23	8	5
+10	Bahia			29	24	7	8
+11	Santos			28	22	7	7
+12	Fluminense		28	23	7	7
+13	Atlético-PR		27	22	7	6
+14	Vitória			26	23	7	5
+15	Botafogo		26	23	6	8
+16	Vasco			24	22	6	6
+17	Sport			24	24	6	6
+18	Ceará			23	23	5	8
+19	Chapecoense		22	22	4	10
+20	Paraná			16	23	3	7
